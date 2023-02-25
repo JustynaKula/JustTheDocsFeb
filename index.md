@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 <!-- Example of title -->
 # How to crochet amigurumi<!-- omit in toc -->
 

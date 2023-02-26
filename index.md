@@ -6,7 +6,7 @@ layout: home
 <!-- Example of title -->
 # How to crochet amigurumi<!-- omit in toc -->
 
-**Amigurumi** is the Japanese art of knitting or crocheting small, stuffed yarn creatures.
+**Amigurumi** is the Japanese art of knitting or crocheting small, stuffed, lovely yarn creatures.
 
 <!-- Here comes the table of content -->
 What you need:
@@ -83,12 +83,13 @@ To start crocheting your amigurumi, you will need the following tools:
 
 <!-- Example of a block of code -->
 1. Open the file.
-2. Find the following block of code:
-
+2. Find the following codeblock:
+```
         <html>
             <head>
                 <title>Crocheting</title>
             </head>
+```
 
 3. Change the title to the name of your choice.
 

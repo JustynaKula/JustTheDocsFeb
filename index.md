@@ -6,7 +6,7 @@ layout: home
 <!-- Example of title -->
 # How to crochet amigurumi<!-- omit in toc -->
 
-**Amigurumi** is the Japanese art of knitting or crocheting small, stuffed yarn creatures.
+**Amigurumi** is the Japanese art of knitting or crocheting small, stuffed, lovely yarn creatures.
 
 <!-- Here comes the table of content -->
 What you need:

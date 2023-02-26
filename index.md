@@ -83,12 +83,13 @@ To start crocheting your amigurumi, you will need the following tools:
 
 <!-- Example of a block of code -->
 1. Open the file.
-2. Find the following block of code:
-
+2. Find the following codeblock:
+```
         <html>
             <head>
                 <title>Crocheting</title>
             </head>
+```
 
 3. Change the title to the name of your choice.
 

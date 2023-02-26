@@ -122,4 +122,4 @@ A few more yarn brands:
 These are some examples of yarn colors.
 
 <!-- Paragraph after table -->
-You will find more yarn colors [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).
+You will find <b>more yarn colors [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).</b>
